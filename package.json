@@ -1,0 +1,21 @@
+{
+  "name": "stylelint-config-dalphyx",
+  "version": "0.0.0",
+  "description": "stylelint config for dalphyx",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalphyx/stylelint-config-dalphyx.git"
+  },
+  "keywords": [
+    "stylelint",
+    "css",
+    "lint"
+  ],
+  "author": "dalphyx <wjcbmk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dalphyx/stylelint-config-dalphyx/issues"
+  },
+  "homepage": "https://github.com/dalphyx/stylelint-config-dalphyx#readme"
+}
